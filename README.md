@@ -1,4 +1,4 @@
-# ![FortiSIEM](https://i0.wp.com/qlqinfo.com/wp-content/uploads/2025/04/FortiSIEM-logo-W800-H600.png?fit=800%2C600&ssl=1)
+# ![FortiSIEM]
 
 > GFM  Markdown and WYSIWYG Editor - Productive and Extensible
 
